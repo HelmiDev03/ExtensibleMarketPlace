@@ -1,4 +1,5 @@
 How To Run Locally : 
+(we doesn't need to speak about virtual env w Scripts w activate w run pwershell as administrator -_-) 
 
 `python3 manage.py makemigrations`
 
